@@ -24,7 +24,7 @@ We may collect certain information about your usage of our app, such as your IP 
 
 **5. Intellectual Property**
 
-All content on our app, including but not limited to text, graphics, logos, and software, is the property of ***Astrl*** (and ***The Astrl Project***) or its licensors and is protected by copyright and other intellectual property laws.
+All content on our app, including but not limited to text, graphics, logos, and software, is the property of ***Astrl*** or its licensors and is protected by copyright and other intellectual property laws.
 
 **6. Disclaimer of Warranties**
 
