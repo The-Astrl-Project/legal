@@ -2,7 +2,7 @@
 
 **Your Privacy Matters**
 
-***The Astrl Project*** respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our app.
+***Astrl*** respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our app.
 
 **Information We Collect**
 
